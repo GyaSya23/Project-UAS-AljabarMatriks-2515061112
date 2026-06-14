@@ -34,7 +34,7 @@ print("\n2. Transpose Matriks X:")
 hasil_transpose = gyoga112.transpose_matriks(Matriks_X)
 gyoga112.cetak_matriks(hasil_transpose)
 
-# 3. Uji The Trace Operator 
+# 3. Uji The Trace 
 print("\n3. Trace Matriks Persegi 3x3 (Jumlah diagonal utama: 4+5+6):")
 hasil_trace = gyoga112.trace_matriks(Matriks_Persegi_3x3)
 gyoga112.cetak_matriks(hasil_trace)
